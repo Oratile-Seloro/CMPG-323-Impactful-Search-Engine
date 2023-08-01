@@ -1,0 +1,20 @@
+C:\Users\User\OneDrive\Desktop\Computing and Programming\Second Year\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\bin\Debug\SU2_Act1.exe.config
+C:\Users\User\OneDrive\Desktop\Computing and Programming\Second Year\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\bin\Debug\SU2_Act1.exe
+C:\Users\User\OneDrive\Desktop\Computing and Programming\Second Year\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\bin\Debug\SU2_Act1.pdb
+C:\Users\User\OneDrive\Desktop\Computing and Programming\Second Year\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Computing and Programming\Second Year\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.frmSQLDatabase.resources
+C:\Users\User\OneDrive\Desktop\Computing and Programming\Second Year\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\Computing and Programming\Second Year\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Computing and Programming\Second Year\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Computing and Programming\Second Year\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.exe
+C:\Users\User\OneDrive\Desktop\Computing and Programming\Second Year\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.pdb
+C:\Users\orati\Desktop\Computing and Programming\Second Year\Semester 1\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\bin\Debug\SU2_Act1.exe.config
+C:\Users\orati\Desktop\Computing and Programming\Second Year\Semester 1\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\bin\Debug\SU2_Act1.exe
+C:\Users\orati\Desktop\Computing and Programming\Second Year\Semester 1\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\bin\Debug\SU2_Act1.pdb
+C:\Users\orati\Desktop\Computing and Programming\Second Year\Semester 1\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.csproj.AssemblyReference.cache
+C:\Users\orati\Desktop\Computing and Programming\Second Year\Semester 1\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.frmSQLDatabase.resources
+C:\Users\orati\Desktop\Computing and Programming\Second Year\Semester 1\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.Properties.Resources.resources
+C:\Users\orati\Desktop\Computing and Programming\Second Year\Semester 1\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.csproj.GenerateResource.cache
+C:\Users\orati\Desktop\Computing and Programming\Second Year\Semester 1\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.csproj.CoreCompileInputs.cache
+C:\Users\orati\Desktop\Computing and Programming\Second Year\Semester 1\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.exe
+C:\Users\orati\Desktop\Computing and Programming\Second Year\Semester 1\Apps and advanced user interfaces - 212\Practical Assignments\Week 1\SU2_Act1\SU2_Act1\obj\Debug\SU2_Act1.pdb
